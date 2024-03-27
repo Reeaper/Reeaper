@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/reeaper._._/)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.dio.me%2Fusers%2Flayslar_oliverafurtado&style=for-the-badge&logo=blockchaindotcom&label=Perfil%20DIO&labelColor=E4405F&color=E4405F)
 [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/akira-yuki-oliveira-furtado-421563203)
 
